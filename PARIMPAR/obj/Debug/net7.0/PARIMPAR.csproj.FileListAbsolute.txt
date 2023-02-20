@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Marks\PARIMPAR\PARIMPAR\obj\Debug\net7.0\PARIMPAR.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Marks\PARIMPAR\PARIMPAR\obj\Debug\net7.0\PARIMPAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Marks\PARIMPAR\PARIMPAR\obj\Debug\net7.0\PARIMPAR.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Marks\PARIMPAR\PARIMPAR\obj\Debug\net7.0\PARIMPAR.AssemblyInfo.cs
+C:\Users\1\Desktop\Marks\PARIMPAR\PARIMPAR\obj\Debug\net7.0\PARIMPAR.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Marks\PARIMPAR\PARIMPAR\bin\Debug\net7.0\PARIMPAR.exe
+C:\Users\1\Desktop\Marks\PARIMPAR\PARIMPAR\bin\Debug\net7.0\PARIMPAR.deps.json
+C:\Users\1\Desktop\Marks\PARIMPAR\PARIMPAR\bin\Debug\net7.0\PARIMPAR.runtimeconfig.json
+C:\Users\1\Desktop\Marks\PARIMPAR\PARIMPAR\bin\Debug\net7.0\PARIMPAR.dll
+C:\Users\1\Desktop\Marks\PARIMPAR\PARIMPAR\bin\Debug\net7.0\PARIMPAR.pdb
+C:\Users\1\Desktop\Marks\PARIMPAR\PARIMPAR\obj\Debug\net7.0\PARIMPAR.dll
+C:\Users\1\Desktop\Marks\PARIMPAR\PARIMPAR\obj\Debug\net7.0\refint\PARIMPAR.dll
+C:\Users\1\Desktop\Marks\PARIMPAR\PARIMPAR\obj\Debug\net7.0\PARIMPAR.pdb
+C:\Users\1\Desktop\Marks\PARIMPAR\PARIMPAR\obj\Debug\net7.0\PARIMPAR.genruntimeconfig.cache
+C:\Users\1\Desktop\Marks\PARIMPAR\PARIMPAR\obj\Debug\net7.0\ref\PARIMPAR.dll
